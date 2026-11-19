@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pratik-portfolio-e7sbn40zv-pratik-panjaris-projects.vercel.app/sitemap.xml
