@@ -5,7 +5,7 @@ export const profile = {
   email: 'pratikpanjari@gmail.com', // Replace with your real email
   intro: 'I build thoughtful digital experiences and full-stack applications that solve real problems.',
   about: "I'm a developer interested in building useful, reliable products. I enjoy working across the stack—from crafting responsive interfaces to designing APIs and working with databases. I'm continuously learning and looking for opportunities to grow with a collaborative engineering team.",
-  resume: '/resume.pdf', // Add your resume to the public folder
+  resume: '/resume.pdf',
   github: 'https://github.com/pratik-panjari-01',
   linkedin: 'https://www.linkedin.com/in/pratik-panjari/',
 };
